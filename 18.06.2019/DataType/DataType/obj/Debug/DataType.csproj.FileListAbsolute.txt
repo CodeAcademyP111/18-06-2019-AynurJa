@@ -1,0 +1,7 @@
+C:\Users\Aishe\Desktop\p111\C#\18.06.2019\DataType\DataType\bin\Debug\DataType.exe.config
+C:\Users\Aishe\Desktop\p111\C#\18.06.2019\DataType\DataType\bin\Debug\DataType.exe
+C:\Users\Aishe\Desktop\p111\C#\18.06.2019\DataType\DataType\bin\Debug\DataType.pdb
+C:\Users\Aishe\Desktop\p111\C#\18.06.2019\DataType\DataType\obj\Debug\DataType.csprojAssemblyReference.cache
+C:\Users\Aishe\Desktop\p111\C#\18.06.2019\DataType\DataType\obj\Debug\DataType.csproj.CoreCompileInputs.cache
+C:\Users\Aishe\Desktop\p111\C#\18.06.2019\DataType\DataType\obj\Debug\DataType.exe
+C:\Users\Aishe\Desktop\p111\C#\18.06.2019\DataType\DataType\obj\Debug\DataType.pdb
